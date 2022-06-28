@@ -16,7 +16,7 @@ Welcome to my Github profile.
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=StephanPagel&theme=<radical>" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=StephanPagel&theme=<radical>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StephanPagel&theme=<radical>" />
 
 <!--
 **StephanPagel/StephanPagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
