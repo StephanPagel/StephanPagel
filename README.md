@@ -9,14 +9,14 @@ Make sure to check out my profile on <a href= 'https://www.linkedin.com/in/steph
 
 <p>🔭 I’m currently working on: Portfolio Page</p>
 <p>🌱 I’m currently improving my skills in:</p> 
-HTML
-CSS/SCSS 
-JS
-REACT.js
-NODE.js
+<p>HTML</p>
+<p>CSS/SCSS</p> 
+<p>JS</p>
+<p>REACT.js</p>
+<p>NODE.js</p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=StephanPagel&theme=<THEME_NAME>" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=StephanPagel" />
 
 <!--
 **StephanPagel/StephanPagel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
