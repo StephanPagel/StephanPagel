@@ -15,7 +15,7 @@ Welcome to my Github profile.
 <p>🪝 REACT.js</p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/?username=StephanPagel&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=StephanPagel&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=StephanPagel&show_icons=true&theme=radical" />
 
 <!--
