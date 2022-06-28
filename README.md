@@ -2,18 +2,17 @@
 
 Welcome to my Github profile.
 
-My name is Stephan Pagel and I'm a Junior Frontend Developer from Germany.
-I live near Berlin and am currently taking part in a fullstack webdevelopment bootcamp at SuperCode.
-Feel free to take a look around and <a href="mailto:s.pagel@posteo.de">contact me</a> if there are any questions.
-Make sure to check out my profile on <a href= 'https://www.linkedin.com/in/stephan-pagel/'>LinkedIn</a>.
+<p>My name is Stephan Pagel and I'm a 👨🏼‍💻 Junior Frontend Developer from Germany.</p>
+<p>I live near Berlin and am currently taking part in a Fullstack Web Development Bootcamp at <a href='https://www.super-code.de/'>SuperCode<a/>.</p>
+<p>Feel free to take a look around and <a href="mailto:s.pagel@posteo.de">📨 contact me</a> if there are any questions.</p>
+<p>Make sure to check out my profile on <a href= 'https://www.linkedin.com/in/stephan-pagel/'>LinkedIn</a>.</p>
 
 <p>🔭 I’m currently working on: Portfolio Page</p>
 <p>🌱 I’m currently improving my skills in:</p> 
-<p>HTML</p>
-<p>CSS/SCSS</p> 
-<p>JS</p>
-<p>REACT.js</p>
-<p>NODE.js</p>
+<p>🌏 HTML</p>
+<p>🌈 CSS/SCSS</p> 
+<p>🦏 JS</p>
+<p>🪝 REACT.js</p>
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=StephanPagel" />
