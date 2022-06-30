@@ -13,6 +13,8 @@ Welcome to my Github profile.
 <p>🌈 CSS/SCSS</p> 
 <p>🦏 JS</p>
 <p>🪝 REACT.js</p>
+<p>🥨 NODE.js</p>
+
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=StephanPagel&show_icons=true&theme=tokyonight" />
