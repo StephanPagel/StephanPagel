@@ -4,10 +4,9 @@ Welcome to my Github profile.
 
 <p>My name is Stephan Pagel and I'm a 👨🏼‍💻 Junior Web Developer from Germany.</p>
 <p>I live near Berlin and am currently taking part in a Fullstack Web Development Bootcamp at <a href='https://www.super-code.de/'>SuperCode<a/>.</p>
-<p>Feel free to take a look around and <a href="mailto:s.pagel@posteo.de">📨 contact me</a> if there are any questions.</p>
+<p>Feel free to take a look around and <a href="mailto:s.pagel@posteo.de">📨 contact me</a> if you like what you see.</p>
 <p>Make sure to check out my profile on <a href= 'https://www.linkedin.com/in/stephan-pagel/'>LinkedIn</a>.</p>
 
-<p>🔭 I’m currently working on: Portfolio Page</p>
 <p>🌱 I’m currently improving my skills in:</p> 
 <p>🌏 HTML</p>
 <p>🌈 CSS/SCSS</p> 
